@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615878856 source:/home/umid/Desktop/file/main.c
+	<stdio.h>
+	<stdlib.h>
+

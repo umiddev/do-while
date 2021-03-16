@@ -69,15 +69,7 @@ do{
     } while (natija == 'h' || natija == 'H');
     printf("Dastur yakunlandi");
 
-
-
-
-
-
-
-
-
-
+//do while bn ishlash
 
 
     return 0;
